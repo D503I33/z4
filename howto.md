@@ -1,0 +1,13 @@
+# Как выполнять 4 задание? #
+- Установить Sublime merge https://www.sublimemerge.com/
+- Установить Obsidian https://obsidian.md/download
+- Зайти в свой репозиторий через браузер https://github.com/D503I33/z4
+- Скопировать адрес репозитория 'ctrl+c'
+- Запустить Sublime merge и клонировать репозиторий
+- ![[Pasted image 20240320135523.png]]
+- Запустить Obsidian  и открыть папку с репозиторием как хранилище![[Pasted image 20240320135844.png]]
+- Используя Obsidian  наполнить репозиторий лекциями и материалами
+- Открыть Subline merge 
+- Сделать stage  изменений 
+- Сделать commit
+- Сделать push![[Pasted image 20240320140648.png]]
